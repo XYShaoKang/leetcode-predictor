@@ -1,1 +1,0 @@
-self.__BUILD_MANIFEST={__rewrites:{beforeFiles:[],afterFiles:[],fallback:[]},"/_error":["static/chunks/pages/_error-5239e67ec06c4818.js"],"/real-time-predict":["static/chunks/283-aff95ed36476c20e.js","static/chunks/pages/real-time-predict-18a68a13ac5686e6.js"],sortedPages:["/_app","/_error","/real-time-predict"]},self.__BUILD_MANIFEST_CB&&self.__BUILD_MANIFEST_CB();
